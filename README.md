@@ -18,5 +18,11 @@
 --------Pytorch
 --------Tensorflow
 
-5.23
+5.23-27
 vscode & anaconda
+put var 
+datatype & operation & rule
+
+5.28 
+operator
+cir
