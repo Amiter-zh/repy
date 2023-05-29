@@ -26,3 +26,7 @@ datatype & operation & rule
 5.28 
 operator
 cir
+
+5.29
+str type
+list dictionary string
