@@ -25,8 +25,11 @@ datatype & operation & rule
 
 5.28 
 operator
-cir
+cir (4)
 
 5.29
 str type
-list dictionary string
+list dictionary string (5)
+do not want to study
+function param
+Configure User Snippets (6)
