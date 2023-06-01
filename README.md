@@ -43,3 +43,15 @@ Object-oriented programming
 Inheritance （8）
 module
 customize os sys random time datetime(9)
+
+6.1
+File operations
+reviewing how to use os , path-related
+file open() & close() & write() & read()
+open mode
+try-except-finally & with as 
+csv writer & reader (10)
+PIL
+Image
+ImageDraw ImageFont ImageFilter vercode(demo)
+crop resize rotate transpose(11)
